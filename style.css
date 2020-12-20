@@ -1,5 +1,5 @@
 body, html {
-	background: #ECEDEF;
+	background: #0cf2e3;
 	margin: 0;
 	padding: 0;
 }
@@ -38,7 +38,7 @@ input[type=button] {
 	padding: 0;
 	margin: 5px;
 	box-sizing: border-box;
-	background: #ecedef;
+	background: #0cf2e3;
 	border: none;
 	font-size: 30px;
 	line-height: 30px;
