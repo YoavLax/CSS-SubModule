@@ -38,13 +38,13 @@ input[type=button] {
 	padding: 0;
 	margin: 5px;
 	box-sizing: border-box;
-	background: #0cf2e3;
+	background: #995588;
 	border: none;
 	font-size: 30px;
 	line-height: 30px;
 	border-radius: 50%;
 	font-weight: 700;
-	color: #5E5800;
+	color: #5E5858;
 	cursor: pointer;
 	
 }
